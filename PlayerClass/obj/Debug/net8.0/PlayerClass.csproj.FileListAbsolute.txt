@@ -1,0 +1,11 @@
+D:\C++ проекты\BuilderPlayer_C#\PlayerClass\bin\Debug\net8.0\PlayerClass.deps.json
+D:\C++ проекты\BuilderPlayer_C#\PlayerClass\bin\Debug\net8.0\PlayerClass.dll
+D:\C++ проекты\BuilderPlayer_C#\PlayerClass\bin\Debug\net8.0\PlayerClass.pdb
+D:\C++ проекты\BuilderPlayer_C#\PlayerClass\obj\Debug\net8.0\PlayerClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\C++ проекты\BuilderPlayer_C#\PlayerClass\obj\Debug\net8.0\PlayerClass.AssemblyInfoInputs.cache
+D:\C++ проекты\BuilderPlayer_C#\PlayerClass\obj\Debug\net8.0\PlayerClass.AssemblyInfo.cs
+D:\C++ проекты\BuilderPlayer_C#\PlayerClass\obj\Debug\net8.0\PlayerClass.csproj.CoreCompileInputs.cache
+D:\C++ проекты\BuilderPlayer_C#\PlayerClass\obj\Debug\net8.0\PlayerClass.dll
+D:\C++ проекты\BuilderPlayer_C#\PlayerClass\obj\Debug\net8.0\refint\PlayerClass.dll
+D:\C++ проекты\BuilderPlayer_C#\PlayerClass\obj\Debug\net8.0\PlayerClass.pdb
+D:\C++ проекты\BuilderPlayer_C#\PlayerClass\obj\Debug\net8.0\ref\PlayerClass.dll

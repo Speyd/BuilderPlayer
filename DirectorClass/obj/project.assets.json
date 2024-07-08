@@ -1,0 +1,134 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Builder/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "PlayerClass": "1.0.0",
+          "Weapon": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Builder.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Builder.dll": {}
+        }
+      },
+      "PlayerClass/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/PlayerClass.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PlayerClass.dll": {}
+        }
+      },
+      "Weapon/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Weapon.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Weapon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Builder/1.0.0": {
+      "type": "project",
+      "path": "../Builder/Builder.csproj",
+      "msbuildProject": "../Builder/Builder.csproj"
+    },
+    "PlayerClass/1.0.0": {
+      "type": "project",
+      "path": "../PlayerClass/PlayerClass.csproj",
+      "msbuildProject": "../PlayerClass/PlayerClass.csproj"
+    },
+    "Weapon/1.0.0": {
+      "type": "project",
+      "path": "../Weapon/Weapon.csproj",
+      "msbuildProject": "../Weapon/Weapon.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Builder >= 1.0.0",
+      "PlayerClass >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\C++ проекты\\BuilderPlayer_C#\\DirectorClass\\DirectorClass.csproj",
+      "projectName": "DirectorClass",
+      "projectPath": "D:\\C++ проекты\\BuilderPlayer_C#\\DirectorClass\\DirectorClass.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "D:\\C++ проекты\\BuilderPlayer_C#\\DirectorClass\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\C++ проекты\\BuilderPlayer_C#\\Builder\\Builder.csproj": {
+              "projectPath": "D:\\C++ проекты\\BuilderPlayer_C#\\Builder\\Builder.csproj"
+            },
+            "D:\\C++ проекты\\BuilderPlayer_C#\\PlayerClass\\PlayerClass.csproj": {
+              "projectPath": "D:\\C++ проекты\\BuilderPlayer_C#\\PlayerClass\\PlayerClass.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

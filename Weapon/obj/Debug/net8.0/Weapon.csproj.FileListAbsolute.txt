@@ -1,0 +1,11 @@
+D:\C++ проекты\BuilderPlayer_C#\Weapon\bin\Debug\net8.0\Weapon.deps.json
+D:\C++ проекты\BuilderPlayer_C#\Weapon\bin\Debug\net8.0\Weapon.dll
+D:\C++ проекты\BuilderPlayer_C#\Weapon\bin\Debug\net8.0\Weapon.pdb
+D:\C++ проекты\BuilderPlayer_C#\Weapon\obj\Debug\net8.0\Weapon.GeneratedMSBuildEditorConfig.editorconfig
+D:\C++ проекты\BuilderPlayer_C#\Weapon\obj\Debug\net8.0\Weapon.AssemblyInfoInputs.cache
+D:\C++ проекты\BuilderPlayer_C#\Weapon\obj\Debug\net8.0\Weapon.AssemblyInfo.cs
+D:\C++ проекты\BuilderPlayer_C#\Weapon\obj\Debug\net8.0\Weapon.csproj.CoreCompileInputs.cache
+D:\C++ проекты\BuilderPlayer_C#\Weapon\obj\Debug\net8.0\Weapon.dll
+D:\C++ проекты\BuilderPlayer_C#\Weapon\obj\Debug\net8.0\refint\Weapon.dll
+D:\C++ проекты\BuilderPlayer_C#\Weapon\obj\Debug\net8.0\Weapon.pdb
+D:\C++ проекты\BuilderPlayer_C#\Weapon\obj\Debug\net8.0\ref\Weapon.dll

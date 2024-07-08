@@ -1,0 +1,61 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DirectorClass/1.0.0": {
+        "dependencies": {
+          "Builder": "1.0.0",
+          "PlayerClass": "1.0.0"
+        },
+        "runtime": {
+          "DirectorClass.dll": {}
+        }
+      },
+      "Builder/1.0.0": {
+        "dependencies": {
+          "PlayerClass": "1.0.0",
+          "Weapon": "1.0.0"
+        },
+        "runtime": {
+          "Builder.dll": {}
+        }
+      },
+      "PlayerClass/1.0.0": {
+        "runtime": {
+          "PlayerClass.dll": {}
+        }
+      },
+      "Weapon/1.0.0": {
+        "runtime": {
+          "Weapon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DirectorClass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Builder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PlayerClass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Weapon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

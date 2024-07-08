@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>BuilderPlayer_C_</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Builder\Builder.csproj" />
+    <ProjectReference Include="..\DirectorClass\DirectorClass.csproj" />
+    <ProjectReference Include="..\PlayerClass\PlayerClass.csproj" />
+    <ProjectReference Include="..\Weapon\Weapon.csproj" />
+  </ItemGroup>
+
+</Project>

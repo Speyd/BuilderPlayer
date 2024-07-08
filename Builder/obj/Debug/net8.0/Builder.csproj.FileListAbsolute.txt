@@ -1,0 +1,17 @@
+D:\C++ проекты\BuilderPlayer_C#\Builder\bin\Debug\net8.0\Builder.deps.json
+D:\C++ проекты\BuilderPlayer_C#\Builder\bin\Debug\net8.0\Builder.dll
+D:\C++ проекты\BuilderPlayer_C#\Builder\bin\Debug\net8.0\Builder.pdb
+D:\C++ проекты\BuilderPlayer_C#\Builder\bin\Debug\net8.0\PlayerClass.dll
+D:\C++ проекты\BuilderPlayer_C#\Builder\bin\Debug\net8.0\Weapon.dll
+D:\C++ проекты\BuilderPlayer_C#\Builder\bin\Debug\net8.0\PlayerClass.pdb
+D:\C++ проекты\BuilderPlayer_C#\Builder\bin\Debug\net8.0\Weapon.pdb
+D:\C++ проекты\BuilderPlayer_C#\Builder\obj\Debug\net8.0\Builder.csproj.AssemblyReference.cache
+D:\C++ проекты\BuilderPlayer_C#\Builder\obj\Debug\net8.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+D:\C++ проекты\BuilderPlayer_C#\Builder\obj\Debug\net8.0\Builder.AssemblyInfoInputs.cache
+D:\C++ проекты\BuilderPlayer_C#\Builder\obj\Debug\net8.0\Builder.AssemblyInfo.cs
+D:\C++ проекты\BuilderPlayer_C#\Builder\obj\Debug\net8.0\Builder.csproj.CoreCompileInputs.cache
+D:\C++ проекты\BuilderPlayer_C#\Builder\obj\Debug\net8.0\Builder.csproj.Up2Date
+D:\C++ проекты\BuilderPlayer_C#\Builder\obj\Debug\net8.0\Builder.dll
+D:\C++ проекты\BuilderPlayer_C#\Builder\obj\Debug\net8.0\refint\Builder.dll
+D:\C++ проекты\BuilderPlayer_C#\Builder\obj\Debug\net8.0\Builder.pdb
+D:\C++ проекты\BuilderPlayer_C#\Builder\obj\Debug\net8.0\ref\Builder.dll
